@@ -1,8 +1,7 @@
-## Hi there 👋
 # Hey there 👋 I'm Tanishk Jaiswal
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Engineer;Infrastructure+as+Code+Practitioner;CI%2FCD+%26+Automation+Enthusiast;Linux+%26+Scripting+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Full-Stack+%26+DevOps+Engineer;Enterprise+Developer+(.NET+%2F+Java);Cloud-Native+%26+Automation+Practitioner;AI+Integrations+%26+Emerging+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,38 +14,49 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **DevOps & Cloud Engineer** focused on automating infrastructure, optimizing software delivery pipelines, and building resilient, cloud-native architectures. As a fresher, I enjoy diving deep into Containerization, Infrastructure as Code (IaC), Cloud platforms, and Shell Scripting to bridge the gap between development and operations.
+I am a highly adaptable **Full-Stack & DevOps Engineer** specializing in bridging the gap between scalable enterprise backend architectures (**Java / .NET**) and modern cloud-native deployment automation. I thrive on building high-performance applications, integrating **Generative AI workflows**, and implementing **CI/CD pipelines** to speed up delivery loops. 
 
-*   🔭 **Current Focus**: Designing automated CI/CD pipelines & Orchestrating container workloads.
-*   📚 **Learning & Certifications**: Deepening Kubernetes (CKA) and AWS Solutions Architect concepts.
-*   💬 **Ask Me About**: Docker containers, Bash scripting, and Git workflows.
-*   ⚡ **Philosophy**: *"If you have to do it more than twice, automate it."*
+*   💼 **Enterprise & Full Stack**: Proficient in building APIs with **.NET Core, Java Spring Boot**, and designing responsive UIs with **React**.
+*   🚀 **Cloud & Automation**: Skilled in containerizing systems via **Docker & Kubernetes**, and deploying infrastructure dynamically.
+*   🤖 **Emerging Tech Focus**: Integrating Large Language Models (LLMs), Vector Databases, and building intelligent agents.
+*   💬 **Recruiter Quick-Info**: I am actively looking for **Software Engineer, Full-Stack Developer, or Associate DevOps** roles!
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🛠️ Professional Tech Stack & Toolbox
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h4>☁️ Cloud & Infrastructure</h4>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /><br/>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /><br/>
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+    <td valign="top" width="50%">
+      <h4>💻 Backend & Enterprise Frameworks</h4>
+      <img src="https://img.shields.io/badge/.NET%20Core%20%2F%20ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
     </td>
-    <td valign="top" width="33%">
-      <h4>⚙️ DevOps & CI/CD</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <td valign="top" width="50%">
+      <h4>🖥️ Frontend & Languages</h4>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </td>
-    <td valign="top" width="33%">
-      <h4>🐍 Languages & OS</h4>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><br/>
-      <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚙️ DevOps, Cloud & IaC</h4>
+      <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Actions" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🧠 Emerging & AI Technologies</h4>
+      <img src="https://img.shields.io/badge/Gen_AI_/_LLM_Integration-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Vector_DBs_(Pinecone)-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" />
+      <img src="https://img.shields.io/badge/Git%20%26%20Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
 </table>
@@ -81,25 +91,10 @@ I am a passionate **DevOps & Cloud Engineer** focused on automating infrastructu
   <a href="https://linkedin.com/in/tanishk-jaiswal-05a24724a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.nickyjaiswal85@gmail.com" target="_blank">
+  <a href="mailto:nickyjaiswal85@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/tanishk13-devops" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<!--
-**tanishk13-devops/tanishk13-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
